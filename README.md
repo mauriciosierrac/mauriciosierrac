@@ -10,6 +10,7 @@
 - ⚡ Fun fact **i make craft beer, i like to watch tutorials,i love trekking**
 
 <h3 align="left">Connect with me:</h3>
+<p>310-703-5840<p>
 <p align="left">
 <a href="https://twitter.com/sierracode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sierracode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/htmauricio-sierra-cifuentes-38762116a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="htmauricio-sierra-cifuentes-38762116a" height="30" width="40" /></a>
